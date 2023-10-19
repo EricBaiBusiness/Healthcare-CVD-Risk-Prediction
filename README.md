@@ -1,5 +1,3 @@
-# BA780-Eric
-
 # Cardiovascular Disease Risk Prediction Analysis for Individuals Under the Age of 35
 
 # Summary
